@@ -1,4 +1,4 @@
-# AdobeXD Cheatsheet
+# UX with Adobe XD Cheatsheet
 
 ## Wireframing
 Jot down the design from your mind to the paper, roughly. This includes the components i.e navbar, buttons, pages. No Color only Black & White
