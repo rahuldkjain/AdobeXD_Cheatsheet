@@ -59,6 +59,10 @@ shift mouse-drag
 ```
 
 ## Shortcuts for mac
+#### To duplicate selected items
+```sh
+⌘ D
+```
 #### To Zoom in
 ```sh
 ⌘ +
