@@ -48,7 +48,7 @@ ctrl 3
 alt mouse-drag(with select hand)
 ```
 
-#### proportinate expansion/compression from center
+#### Draw shape from center
 ```sh
 alt mouse-drag(expansion)
 ```
@@ -57,6 +57,38 @@ alt mouse-drag(expansion)
 ```sh
 shift mouse-drag
 ```
+
+## Shortcuts for mac
+#### To Zoom in
+```sh
+⌘ +
+```
+
+#### To Zoom out
+```sh
+⌘ -
+```
+
+#### 100% Zoom in
+```sh
+⌘ 1
+```
+
+#### Window zoom for selected portion
+```sh
+⌘ 3
+```
+
+#### for duplicate
+```sh
+⌥ mouse-drag(with select hand)
+```
+
+#### Draw shape from center
+```sh
+⌥ mouse-drag from one side(expansion)
+```
+
 
 
 ## ICON resources
